@@ -1,14 +1,20 @@
-![community](https://github.com/user-attachments/assets/cd0a8d59-b419-426a-8e91-ea99c00c405d)# 🌿 Online-Mental-Health-Platform-for-Enhanced-Emotional-Well-Being-and-Self-Reflection-
+# 🌿 Online-Mental-Health-Platform-for-Enhanced-Emotional-Well-Being-and-Self-Reflection-
 
 A secure, user-focused journaling web application built using **Node.js**, **Express.js**, and **MongoDB**. The platform encourages emotional self-reflection, mood tracking, and self-care, particularly for youth and young adults. This system prioritizes **privacy**, **security**, and **accessibility**.
 
 # 🌿 user interface outlook
 
-https://github.com/user-attachments/assets/850a9769-2d6e-4c0c-9d19-8cda1f73f7fc
+
+https://github.com/user-attachments/assets/020498f2-0405-4595-9e08-1a40622d8ad0
+
 
 # 🌿 admin interface outlook:
 
-https://github.com/user-attachments/assets/391429ab-d889-4b6a-b2b7-2bd147c73e3a
+
+
+https://github.com/user-attachments/assets/24114650-fa4c-4b1f-bbb5-fd1d3ad806f8
+
+
 ---
 
 ## 🔍 Project Description
