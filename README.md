@@ -1,14 +1,14 @@
-# 🌿 Online-Mental-Health-Platform-for-Enhanced-Emotional-Well-Being-and-Self-Reflection-
+![community](https://github.com/user-attachments/assets/cd0a8d59-b419-426a-8e91-ea99c00c405d)# 🌿 Online-Mental-Health-Platform-for-Enhanced-Emotional-Well-Being-and-Self-Reflection-
 
 A secure, user-focused journaling web application built using **Node.js**, **Express.js**, and **MongoDB**. The platform encourages emotional self-reflection, mood tracking, and self-care, particularly for youth and young adults. This system prioritizes **privacy**, **security**, and **accessibility**.
 
 # 🌿 user interface outlook
-https://github.com/user-attachments/assets/1e9400ff-9426-4cbc-9e86-2f5b9fb91591
+
+https://github.com/user-attachments/assets/850a9769-2d6e-4c0c-9d19-8cda1f73f7fc
 
 # 🌿 admin interface outlook:
 
-https://github.com/user-attachments/assets/2adc09a8-020b-4b08-b50b-624b563329f6
-
+https://github.com/user-attachments/assets/391429ab-d889-4b6a-b2b7-2bd147c73e3a
 ---
 
 ## 🔍 Project Description
@@ -142,18 +142,20 @@ mental-health-reflection-platform/
 
 ## 🖼️ Screenshots
 
-##  Uaer interface
-![dashboard](https://github.com/user-attachments/assets/3b4fca91-fadf-4181-ad0e-b4d887f6cf7f)
-![crisis resources](https://github.com/user-attachments/assets/ca8c0afa-dee2-4cf4-bec6-6cfc4ef0556a)
-![community](https://github.com/user-attachments/assets/f33e4b21-882e-4916-b18d-037bb495f259)
-![therapist](https://github.com/user-attachments/assets/fec964b7-39df-4c86-a6cf-626d35a1abd9)
-![resources](https://github.com/user-attachments/assets/93e62739-3ea0-4787-bbd0-faaa08af6536)
-![mood tracker](https://github.com/user-attachments/assets/3997632e-b23c-4c92-816a-67e638fa5161)
-![journal](https://github.com/user-attachments/assets/3209e737-d0f5-4bb4-9bfe-c700563f7960)
+##  User interface
+
+![journal](https://github.com/user-attachments/assets/53c4f4ef-d540-4862-8849-a624656ec145)
+![dashboard](https://github.com/user-attachments/assets/48dc0957-d7dc-49c7-b007-0361d9d229c7)
+![crisis resources](https://github.com/user-attachments/assets/3a2af3a1-3ab0-44a4-9082-387297e14f45)
+![community](https://github.com/user-attachments/assets/c65ec090-9015-459d-a760-c3f73349520b)
+![therapist](https://github.com/user-attachments/assets/4bf5f73a-c78c-4da6-9a37-03526b26f1d7)
+![resources](https://github.com/user-attachments/assets/7735d5a8-a074-4cea-9676-446f2a53c150)
+![mood tracker](https://github.com/user-attachments/assets/af5720e9-bd86-4afd-bf54-9a58d331f75f)
+
 
 ##  Admin interface
-![admin](https://github.com/user-attachments/assets/a4bb4492-03c1-4e5a-af39-c81d613e637e)
 
+![admin](https://github.com/user-attachments/assets/0da5f832-4393-4809-b17b-ea3787448fb1)
 
 ## 📚 Topics Covered
 
